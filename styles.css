@@ -192,6 +192,7 @@ nav ul li a:hover::after{
 /* --------portfolio-----/ */
 #porfolio{
     padding: 50px 0;
+    background: brown;
     
 }
 .work-list{
