@@ -70,6 +70,7 @@ nav ul li a:hover::after{
 #about{
     padding: 79px 0;
     color:black;
+    background: lightgray;
 
 
 }
